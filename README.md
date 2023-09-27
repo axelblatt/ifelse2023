@@ -3,4 +3,4 @@
 
 Тема олимпиады: чипирование животных и отслеживание их витальных, физиологических показателей и местоположения на местности. Использовались PostgreSQL и фреймворк FastAPI.
 
-Сайт олимпиады: https://challenge.braim.org/it-planet/simbirsoft.html.
+Сайт олимпиады: https://challenge.braim.org/it-planet/simbirsoft.html
